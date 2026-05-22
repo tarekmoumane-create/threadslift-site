@@ -9,7 +9,7 @@ const BUDGETS = [
   "$25,000 - $100,000",
 ];
 
-const CALENDLY_URL = "https://calendly.com/tarekmoumane/discovery-call";
+const CALENDLY_URL = "https://calendly.com/lifthreads/discovery-call";
 
 export function BookingForm() {
   const [pending, setPending] = useState(false);
