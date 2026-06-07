@@ -23,7 +23,7 @@ const crimsonPro = Crimson_Pro({
 export const metadata: Metadata = {
   title: "Threadslift — Reddit organic that compounds.",
   description:
-    "We get your brand mentioned in the Reddit threads your buyers already trust. Mentions stay live, rank on Google, and compound for years.",
+    "We get your brand mentioned in the Reddit threads your buyers already trust. Mentions stay live, rank on Google, get cited by ChatGPT and Perplexity, and compound for years.",
 };
 
 export default function RootLayout({
